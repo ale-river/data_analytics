@@ -1,2 +1,2 @@
 # data_analytics
-Repo of bootcamp's projects
+Performing analysis on Kickstarter data to uncover trends.
